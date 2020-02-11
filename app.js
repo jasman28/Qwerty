@@ -10,6 +10,7 @@ var movieHistory = document.querySelector("#movieHistoryCard");
 var myMovies = {
     
 };
+var mymovies ={}
 
 if(localStorage.getItem("myMovies")) {
     myMovies = JSON.parse(localStorage.getItem("myMovies"));
