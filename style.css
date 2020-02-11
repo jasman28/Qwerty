@@ -6,10 +6,11 @@
   
   .container {
     height: 90vh;
-  }
+  } width :80px;
 
   li:hover {
     cursor: pointer;
   }
+  
   
   ul{ list-style-type: none; }
