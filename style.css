@@ -1,7 +1,7 @@
 .flex {
     display: block;
     justify-content: space-between;
-    align-items: right;
+    align-items: center;
   }
   
   .container {
